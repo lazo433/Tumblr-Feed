@@ -1,27 +1,11 @@
-# Project 5 - *Tumblr Feed*
+**Tubmlr Feed** is a clone app of Tumblr that shows blog posts from Humans of New York blog post by fetching the data from the Tumblr API
 
-Submitted by: **Henry Lazo**
 
-**Tubmlr Feed** is an app that shows blog posts from Humans of New York blog post by fetching the data from the Tumblr API
-
-Time spent: **5** hours spent in total
-
-## Required Features
-
-The following **required** functionality is completed:
+The following functionality is included:
 
 - [X] App has a configured table view and table view call
 - [X] App populates the table view with data fetched from an API
-
-
-The following **optional** features are implemented:
-
-- [ ] App fetches posts from a different Tumblr blog
 - [X] App has a refresh control to update the table view
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
@@ -33,12 +17,6 @@ The following **additional** features are implemented:
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/54632a8097b34e48b5e3087cc83dba39-1711413108973-with-play.gif">
     </a>
   </div>
-
-## Notes
-
-Describe any challenges encountered while building the app
-
-- I felt that I understood this project well and really got the hang of how tables work. More so, by looking more at implementing API code, I think that I am better understanding how to use it's dat in ones projects
 
 ## License
 
